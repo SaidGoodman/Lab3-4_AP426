@@ -10,6 +10,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetectiveGame.Tests", "..\D
 		{726D8B47-9FA5-484C-B830-A172432340A6} = {726D8B47-9FA5-484C-B830-A172432340A6}
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DetectiveGame.Wpf", "..\DetectiveGame.Wpf\DetectiveGame.Wpf.csproj", "{6DAEC9D9-FA94-4569-8283-46D76A76BA7F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{726D8B47-9FA5-484C-B830-A172432340A6} = {726D8B47-9FA5-484C-B830-A172432340A6}
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +29,10 @@ Global
 		{7B3F26EA-8060-4A28-BE3C-DBDF624F7FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B3F26EA-8060-4A28-BE3C-DBDF624F7FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B3F26EA-8060-4A28-BE3C-DBDF624F7FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DAEC9D9-FA94-4569-8283-46D76A76BA7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DAEC9D9-FA94-4569-8283-46D76A76BA7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DAEC9D9-FA94-4569-8283-46D76A76BA7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DAEC9D9-FA94-4569-8283-46D76A76BA7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

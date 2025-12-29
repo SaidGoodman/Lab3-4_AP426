@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lqxOfFMOKY0=",
+  "success": true,
+  "projectFilePath": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame.Wpf\\DetectiveGame.Wpf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\utico\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

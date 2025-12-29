@@ -32,3 +32,4 @@ D:\cpp2\sem3\DetectiveGame\DetectiveGame\obj\Debug\net8.0\refint\DetectiveGame.d
 D:\cpp2\sem3\DetectiveGame\DetectiveGame\obj\Debug\net8.0\DetectiveGame.pdb
 D:\cpp2\sem3\DetectiveGame\DetectiveGame\obj\Debug\net8.0\DetectiveGame.genruntimeconfig.cache
 D:\cpp2\sem3\DetectiveGame\DetectiveGame\obj\Debug\net8.0\ref\DetectiveGame.dll
+D:\cpp2\sem3\DetectiveGame\DetectiveGame\obj\Debug\net8.0\DetectiveGame.sourcelink.json
