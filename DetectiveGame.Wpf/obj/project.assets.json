@@ -104,8 +104,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\DetectiveGame.csproj": {
-              "projectPath": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\DetectiveGame.csproj"
+            "d:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\DetectiveGame.csproj": {
+              "projectPath": "d:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\DetectiveGame.csproj"
             }
           }
         }

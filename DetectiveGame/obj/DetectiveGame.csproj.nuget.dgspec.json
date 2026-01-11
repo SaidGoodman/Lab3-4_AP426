@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\DetectiveGame.csproj": {}
+    "d:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\DetectiveGame.csproj": {}
   },
   "projects": {
-    "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\DetectiveGame.csproj": {
+    "d:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\DetectiveGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\DetectiveGame.csproj",
+        "projectUniqueName": "d:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\DetectiveGame.csproj",
         "projectName": "DetectiveGame",
-        "projectPath": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\DetectiveGame.csproj",
+        "projectPath": "d:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\DetectiveGame.csproj",
         "packagesPath": "C:\\Users\\utico\\.nuget\\packages\\",
-        "outputPath": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\obj\\",
+        "outputPath": "d:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -6,43 +6,43 @@
       "AbsoluteMoniker": "D:0:0:{6DAEC9D9-FA94-4569-8283-46D76A76BA7F}|..\\DetectiveGame.Wpf\\DetectiveGame.Wpf.csproj|d:\\cpp2\\sem3\\detectivegame\\detectivegame.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|d:\\cpp2\\sem3\\detectivegame\\detectivegame\\services\\worldfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|solutionrelative:services\\worldfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|d:\\cpp2\\sem3\\detectivegame\\detectivegame\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|solutionrelative:services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|d:\\cpp2\\sem3\\detectivegame\\detectivegame\\services\\saveloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|solutionrelative:services\\saveloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DAEC9D9-FA94-4569-8283-46D76A76BA7F}|..\\DetectiveGame.Wpf\\DetectiveGame.Wpf.csproj|d:\\cpp2\\sem3\\detectivegame\\detectivegame.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|d:\\cpp2\\sem3\\detectivegame\\detectivegame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|d:\\cpp2\\sem3\\detectivegame\\detectivegame\\services\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|solutionrelative:services\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|d:\\cpp2\\sem3\\detectivegame\\detectivegame\\services\\worldfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|solutionrelative:services\\worldfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|d:\\cpp2\\sem3\\detectivegame\\detectivegame\\models\\evidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|solutionrelative:models\\evidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|d:\\cpp2\\sem3\\detectivegame\\detectivegame\\services\\saveloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|solutionrelative:services\\saveloadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|d:\\cpp2\\sem3\\detectivegame\\detectivegame\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|solutionrelative:services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|d:\\cpp2\\sem3\\detectivegame\\detectivegame\\services\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|solutionrelative:services\\gameengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|d:\\cpp2\\sem3\\detectivegame\\detectivegame\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|solutionrelative:models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|d:\\cpp2\\sem3\\detectivegame\\detectivegame\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|solutionrelative:models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|d:\\cpp2\\sem3\\detectivegame\\detectivegame\\models\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|solutionrelative:models\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DAEC9D9-FA94-4569-8283-46D76A76BA7F}|..\\DetectiveGame.Wpf\\DetectiveGame.Wpf.csproj|d:\\cpp2\\sem3\\detectivegame\\detectivegame.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|d:\\cpp2\\sem3\\detectivegame\\detectivegame\\models\\evidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|solutionrelative:models\\evidence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|d:\\cpp2\\sem3\\detectivegame\\detectivegame\\interfaces\\isserializable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|solutionrelative:interfaces\\isserializable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DAEC9D9-FA94-4569-8283-46D76A76BA7F}|..\\DetectiveGame.Wpf\\DetectiveGame.Wpf.csproj|d:\\cpp2\\sem3\\detectivegame\\detectivegame.wpf\\detectivegame.wpf.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -51,15 +51,15 @@
       "AbsoluteMoniker": "D:0:0:{7B3F26EA-8060-4A28-BE3C-DBDF624F7FD5}|..\\DetectiveGame.Tests\\DetectiveGame.Tests.csproj|d:\\cpp2\\sem3\\detectivegame\\detectivegame.tests\\detectivegame.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|d:\\cpp2\\sem3\\detectivegame\\detectivegame\\interfaces\\isserializable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|solutionrelative:interfaces\\isserializable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B3F26EA-8060-4A28-BE3C-DBDF624F7FD5}|..\\DetectiveGame.Tests\\DetectiveGame.Tests.csproj|d:\\cpp2\\sem3\\detectivegame\\detectivegame.tests\\saveloadservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|d:\\cpp2\\sem3\\detectivegame\\detectivegame\\models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|solutionrelative:models\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|d:\\cpp2\\sem3\\detectivegame\\detectivegame\\detectivegame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{726D8B47-9FA5-484C-B830-A172432340A6}|DetectiveGame.csproj|solutionrelative:detectivegame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B3F26EA-8060-4A28-BE3C-DBDF624F7FD5}|..\\DetectiveGame.Tests\\DetectiveGame.Tests.csproj|d:\\cpp2\\sem3\\detectivegame\\detectivegame.tests\\saveloadservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B3F26EA-8060-4A28-BE3C-DBDF624F7FD5}|..\\DetectiveGame.Tests\\DetectiveGame.Tests.csproj|d:\\cpp2\\sem3\\detectivegame\\detectivegame.tests\\tempcwdscope.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -87,83 +87,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DetectiveGame.Tests.csproj",
-              "DocumentMoniker": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame.Tests\\DetectiveGame.Tests.csproj",
-              "RelativeDocumentMoniker": "..\\DetectiveGame.Tests\\DetectiveGame.Tests.csproj",
-              "ToolTip": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame.Tests\\DetectiveGame.Tests.csproj",
-              "RelativeToolTip": "..\\DetectiveGame.Tests\\DetectiveGame.Tests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-29T18:30:58.541Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Evidence.cs",
-              "DocumentMoniker": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\Models\\Evidence.cs",
-              "RelativeDocumentMoniker": "Models\\Evidence.cs",
-              "ToolTip": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\Models\\Evidence.cs",
-              "RelativeToolTip": "Models\\Evidence.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T07:06:02.307Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GameState.cs",
-              "DocumentMoniker": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\Models\\GameState.cs",
-              "RelativeDocumentMoniker": "Models\\GameState.cs",
-              "ToolTip": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\Models\\GameState.cs",
-              "RelativeToolTip": "Models\\GameState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T07:06:52.465Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Location.cs",
-              "DocumentMoniker": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\Models\\Location.cs",
-              "RelativeDocumentMoniker": "Models\\Location.cs",
-              "ToolTip": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\Models\\Location.cs",
-              "RelativeToolTip": "Models\\Location.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T07:06:28.745Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Character.cs",
-              "DocumentMoniker": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\Models\\Character.cs",
-              "RelativeDocumentMoniker": "Models\\Character.cs",
-              "ToolTip": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\Models\\Character.cs",
-              "RelativeToolTip": "Models\\Character.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAAwDgAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T07:05:31.535Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "GameEngine.cs",
               "DocumentMoniker": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\Services\\GameEngine.cs",
               "RelativeDocumentMoniker": "Services\\GameEngine.cs",
               "ToolTip": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\Services\\GameEngine.cs",
               "RelativeToolTip": "Services\\GameEngine.cs",
-              "ViewState": "AgIAAMcAAAAAAAAAAAAAwOMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAMEAAAAAAAAAAADwv8sAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T20:58:40.035Z"
+              "WhenOpened": "2025-12-29T20:58:40.035Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "GameService.cs",
               "DocumentMoniker": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\Services\\GameService.cs",
               "RelativeDocumentMoniker": "Services\\GameService.cs",
@@ -171,23 +112,38 @@
               "RelativeToolTip": "Services\\GameService.cs",
               "ViewState": "AgIAANAAAAAAAAAAAAAQwNcAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T07:11:56.42Z"
+              "WhenOpened": "2025-12-22T07:11:56.42Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "SaveLoadService.cs",
               "DocumentMoniker": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\Services\\SaveLoadService.cs",
               "RelativeDocumentMoniker": "Services\\SaveLoadService.cs",
               "ToolTip": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\Services\\SaveLoadService.cs",
               "RelativeToolTip": "Services\\SaveLoadService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAMAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwAMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T07:12:49.79Z"
+              "WhenOpened": "2025-12-22T07:12:49.79Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "WorldFactory.cs",
+              "DocumentMoniker": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\Services\\WorldFactory.cs",
+              "RelativeDocumentMoniker": "Services\\WorldFactory.cs",
+              "ToolTip": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\Services\\WorldFactory.cs",
+              "RelativeToolTip": "Services\\WorldFactory.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T20:59:23.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -195,7 +151,8 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T07:15:05.386Z"
+              "WhenOpened": "2025-12-22T07:15:05.386Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -212,15 +169,118 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "WorldFactory.cs",
-              "DocumentMoniker": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\Services\\WorldFactory.cs",
-              "RelativeDocumentMoniker": "Services\\WorldFactory.cs",
-              "ToolTip": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\Services\\WorldFactory.cs",
-              "RelativeToolTip": "Services\\WorldFactory.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA4wBoAAAAnAAAAAAAAAA==",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame.Wpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\DetectiveGame.Wpf\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame.Wpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\DetectiveGame.Wpf\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAP8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T20:59:23.134Z",
+              "WhenOpened": "2025-12-29T20:57:32.556Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\Models\\GameState.cs",
+              "RelativeDocumentMoniker": "Models\\GameState.cs",
+              "ToolTip": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\Models\\GameState.cs",
+              "RelativeToolTip": "Models\\GameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T07:06:52.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IsSerializable.cs",
+              "DocumentMoniker": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\Interfaces\\IsSerializable.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IsSerializable.cs",
+              "ToolTip": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\Interfaces\\IsSerializable.cs",
+              "RelativeToolTip": "Interfaces\\IsSerializable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T07:07:44.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Location.cs",
+              "DocumentMoniker": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "Models\\Location.cs",
+              "ToolTip": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\Models\\Location.cs",
+              "RelativeToolTip": "Models\\Location.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T07:06:28.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Evidence.cs",
+              "DocumentMoniker": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\Models\\Evidence.cs",
+              "RelativeDocumentMoniker": "Models\\Evidence.cs",
+              "ToolTip": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\Models\\Evidence.cs",
+              "RelativeToolTip": "Models\\Evidence.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T07:06:02.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DetectiveGame.Wpf.csproj",
+              "DocumentMoniker": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame.Wpf\\DetectiveGame.Wpf.csproj",
+              "RelativeDocumentMoniker": "..\\DetectiveGame.Wpf\\DetectiveGame.Wpf.csproj",
+              "ToolTip": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame.Wpf\\DetectiveGame.Wpf.csproj",
+              "RelativeToolTip": "..\\DetectiveGame.Wpf\\DetectiveGame.Wpf.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-29T21:01:26.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DetectiveGame.Tests.csproj",
+              "DocumentMoniker": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame.Tests\\DetectiveGame.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\DetectiveGame.Tests\\DetectiveGame.Tests.csproj",
+              "ToolTip": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame.Tests\\DetectiveGame.Tests.csproj",
+              "RelativeToolTip": "..\\DetectiveGame.Tests\\DetectiveGame.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-29T18:30:58.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SaveLoadServiceTests.cs",
+              "DocumentMoniker": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame.Tests\\SaveLoadServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\DetectiveGame.Tests\\SaveLoadServiceTests.cs",
+              "ToolTip": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame.Tests\\SaveLoadServiceTests.cs",
+              "RelativeToolTip": "..\\DetectiveGame.Tests\\SaveLoadServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T18:30:34.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Character.cs",
+              "DocumentMoniker": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\Models\\Character.cs",
+              "RelativeDocumentMoniker": "Models\\Character.cs",
+              "ToolTip": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\Models\\Character.cs",
+              "RelativeToolTip": "Models\\Character.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAwDgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T07:05:31.535Z"
             },
             {
               "$type": "Document",
@@ -237,18 +297,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "SaveLoadServiceTests.cs",
-              "DocumentMoniker": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame.Tests\\SaveLoadServiceTests.cs",
-              "RelativeDocumentMoniker": "..\\DetectiveGame.Tests\\SaveLoadServiceTests.cs",
-              "ToolTip": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame.Tests\\SaveLoadServiceTests.cs",
-              "RelativeToolTip": "..\\DetectiveGame.Tests\\SaveLoadServiceTests.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAcwEYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T18:30:34.534Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "DetectiveGame.csproj",
               "DocumentMoniker": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\DetectiveGame.csproj",
               "RelativeDocumentMoniker": "DetectiveGame.csproj",
@@ -256,7 +304,8 @@
               "RelativeToolTip": "DetectiveGame.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-22T07:02:59.099Z"
+              "WhenOpened": "2025-12-22T07:02:59.099Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -269,42 +318,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-29T18:32:06.68Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame.Wpf\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "..\\DetectiveGame.Wpf\\MainWindow.xaml.cs",
-              "ToolTip": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame.Wpf\\MainWindow.xaml.cs",
-              "RelativeToolTip": "..\\DetectiveGame.Wpf\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAHQAAAAAAAAAAAA7wI4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T20:57:32.556Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DetectiveGame.Wpf.csproj",
-              "DocumentMoniker": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame.Wpf\\DetectiveGame.Wpf.csproj",
-              "RelativeDocumentMoniker": "..\\DetectiveGame.Wpf\\DetectiveGame.Wpf.csproj",
-              "ToolTip": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame.Wpf\\DetectiveGame.Wpf.csproj",
-              "RelativeToolTip": "..\\DetectiveGame.Wpf\\DetectiveGame.Wpf.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-12-29T21:01:26.502Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IsSerializable.cs",
-              "DocumentMoniker": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\Interfaces\\IsSerializable.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IsSerializable.cs",
-              "ToolTip": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\Interfaces\\IsSerializable.cs",
-              "RelativeToolTip": "Interfaces\\IsSerializable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T07:07:44.569Z"
             },
             {
               "$type": "Document",

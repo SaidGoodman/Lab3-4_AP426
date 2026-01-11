@@ -103,3 +103,4 @@ D:\cpp2\sem3\DetectiveGame\DetectiveGame.Tests\obj\Debug\net8.0\refint\Detective
 D:\cpp2\sem3\DetectiveGame\DetectiveGame.Tests\obj\Debug\net8.0\DetectiveGame.Tests.pdb
 D:\cpp2\sem3\DetectiveGame\DetectiveGame.Tests\obj\Debug\net8.0\DetectiveGame.Tests.genruntimeconfig.cache
 D:\cpp2\sem3\DetectiveGame\DetectiveGame.Tests\obj\Debug\net8.0\ref\DetectiveGame.Tests.dll
+D:\cpp2\sem3\DetectiveGame\DetectiveGame.Tests\obj\Debug\net8.0\DetectiveGame.Tests.sourcelink.json

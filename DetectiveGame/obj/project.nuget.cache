@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4IMbTubQn5w=",
+  "dgSpecHash": "QCu1CbHEUWs=",
   "success": true,
-  "projectFilePath": "D:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\DetectiveGame.csproj",
+  "projectFilePath": "d:\\cpp2\\sem3\\DetectiveGame\\DetectiveGame\\DetectiveGame.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\utico\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
   ],
